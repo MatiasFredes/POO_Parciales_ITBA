@@ -19,7 +19,7 @@ namespace Ejercicio_2
         {
             if (!familyCellPhoneGroup.CellPhoneIsPartOfTheGroup(number))
             {
-                if (familyCellPhoneGroup.GetCredits() <= 0)
+                if (familyCellPhoneGroup.GetAviableCalls() <= 0)
                     throw new NoCreditException();
 
                 familyCellPhoneGroup.DiscountCredit();

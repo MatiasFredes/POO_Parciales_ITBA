@@ -34,11 +34,6 @@ namespace Ejercicio_2
             }
         }
 
-        public int GetCredits()
-        {
-            return credits;
-        }
-
         public bool CellPhoneIsPartOfTheGroup(string number)
         {
             return familyCellPhones
