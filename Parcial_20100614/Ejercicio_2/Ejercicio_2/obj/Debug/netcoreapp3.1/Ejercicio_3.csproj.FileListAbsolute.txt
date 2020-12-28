@@ -1,0 +1,13 @@
+C:\Users\Matias\Documents\GitHub\POO_Parciales_ITBA\Parcial_20100614\Ejercicio_2\Ejercicio_2\bin\Debug\netcoreapp3.1\Ejercicio_3.exe
+C:\Users\Matias\Documents\GitHub\POO_Parciales_ITBA\Parcial_20100614\Ejercicio_2\Ejercicio_2\bin\Debug\netcoreapp3.1\Ejercicio_3.deps.json
+C:\Users\Matias\Documents\GitHub\POO_Parciales_ITBA\Parcial_20100614\Ejercicio_2\Ejercicio_2\bin\Debug\netcoreapp3.1\Ejercicio_3.runtimeconfig.json
+C:\Users\Matias\Documents\GitHub\POO_Parciales_ITBA\Parcial_20100614\Ejercicio_2\Ejercicio_2\bin\Debug\netcoreapp3.1\Ejercicio_3.runtimeconfig.dev.json
+C:\Users\Matias\Documents\GitHub\POO_Parciales_ITBA\Parcial_20100614\Ejercicio_2\Ejercicio_2\bin\Debug\netcoreapp3.1\Ejercicio_3.dll
+C:\Users\Matias\Documents\GitHub\POO_Parciales_ITBA\Parcial_20100614\Ejercicio_2\Ejercicio_2\bin\Debug\netcoreapp3.1\Ejercicio_3.pdb
+C:\Users\Matias\Documents\GitHub\POO_Parciales_ITBA\Parcial_20100614\Ejercicio_2\Ejercicio_2\obj\Debug\netcoreapp3.1\Ejercicio_3.csprojAssemblyReference.cache
+C:\Users\Matias\Documents\GitHub\POO_Parciales_ITBA\Parcial_20100614\Ejercicio_2\Ejercicio_2\obj\Debug\netcoreapp3.1\Ejercicio_3.AssemblyInfoInputs.cache
+C:\Users\Matias\Documents\GitHub\POO_Parciales_ITBA\Parcial_20100614\Ejercicio_2\Ejercicio_2\obj\Debug\netcoreapp3.1\Ejercicio_3.AssemblyInfo.cs
+C:\Users\Matias\Documents\GitHub\POO_Parciales_ITBA\Parcial_20100614\Ejercicio_2\Ejercicio_2\obj\Debug\netcoreapp3.1\Ejercicio_3.csproj.CoreCompileInputs.cache
+C:\Users\Matias\Documents\GitHub\POO_Parciales_ITBA\Parcial_20100614\Ejercicio_2\Ejercicio_2\obj\Debug\netcoreapp3.1\Ejercicio_3.dll
+C:\Users\Matias\Documents\GitHub\POO_Parciales_ITBA\Parcial_20100614\Ejercicio_2\Ejercicio_2\obj\Debug\netcoreapp3.1\Ejercicio_3.pdb
+C:\Users\Matias\Documents\GitHub\POO_Parciales_ITBA\Parcial_20100614\Ejercicio_2\Ejercicio_2\obj\Debug\netcoreapp3.1\Ejercicio_3.genruntimeconfig.cache
